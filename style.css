@@ -1,0 +1,22 @@
+.body_backgorund 
+{
+    background-image:url(https://data.whicdn.com/images/69181622/original.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	border-color:darkviolet;
+    background-image: url('http://www.sru.edu//images/news/2019/June/062719a-Inline.jpg');
+}
+#download
+{
+	background: #5bc0de;
+	float: left;
+	margin-top: 25px;
+	padding: 10px;
+	border-radius: 10px;
+}
